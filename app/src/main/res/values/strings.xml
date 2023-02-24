@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CrudOperations</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="add_course">Add Course</string>
+    <string name="edit_course">Edit Course</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_password_again">Enter Password Again</string>
+    <string name="already_user">Already a User? Login Here.</string>
+    <string name="password_do_not_match">Passwords Do Not Match.</string>
+    <string name="new_user">New User? Register Here.</string>
+    <string name="enter_course_suited_for">Enter Course Suited For</string>
+    <string name="enter_course_image_link">Enter Course Image Link</string>
+    <string name="enter_course_link">Enter Course Link</string>
+    <string name="enter_course_description">Enter Course Description</string>
+    <string name="update_your_n_course">Update Your \n Course</string>
+    <string name="delete_your_n_course">Delete Your \n Course</string>
+    <string name="enter_course_price">Enter Course Price</string>
+    <string name="enter_course_name">Enter Course Name</string>
+    <string name="enter_user_name">Enter User Name</string>
+<string name="upload_image_from_local_storage">Upload From Image Local Storage</string>
+<string name="upload">Upload</string>
+
+</resources>
